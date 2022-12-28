@@ -4,7 +4,7 @@
 
 
 Weather App built with React.
-<!-- [Live Demo](https://esnz-reactweather.netlify.app/) -->
+[Live Demo](https://net-reactweather.netlify.app/)
 
 ## Tech Stack
 
