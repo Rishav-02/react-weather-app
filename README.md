@@ -1,14 +1,17 @@
 # React Weather App
 
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Rishav-02/react-weather-app?color=yellow&label=JavaScript"> <img src="https://img.shields.io/badge/Netlify-sucess-blue"> ![GitHub language count](https://img.shields.io/github/languages/count/Rishav-02/react-weather-app) <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Rishav-02/react-weather-app?color=gree">
+
+<!-- Images -->
 <img src="https://user-images.githubusercontent.com/100300441/209625526-35b4074c-011d-446e-844b-739613d43dfc.png" width="400"> <img src="https://user-images.githubusercontent.com/100300441/209625593-366f9c9e-2fac-4a3e-9874-9195b5c290bd.png" width="400">
 
 
 Weather App built with React 
 [Live Demo](https://net-reactweather.netlify.app/)
 
-## Tech Stack Used
+## Tech Used
 
-**React, JavaScript, HTML, CSS, API**
+<img src="https://img.shields.io/badge/React-Library-blue"> <img src="https://img.shields.io/badge/JavaScript-Language-yellow"> <img src="https://img.shields.io/badge/HTML5-Language-orange"> <img src="https://img.shields.io/badge/CSS3-Style-blue"> <img src="https://img.shields.io/badge/API-Weather-green">
 
 ## Features
 
